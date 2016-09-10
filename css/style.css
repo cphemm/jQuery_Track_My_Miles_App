@@ -1,0 +1,20 @@
+body{
+	text-align:center;
+}
+
+#body-background div.ui-content {
+	background: lightgrey;
+}
+
+
+ul{
+	display:block;
+}
+
+.controls{
+	float:right;
+}
+
+#stats p{
+	color:red;
+}
